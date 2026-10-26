@@ -1,0 +1,9 @@
+# pinned for the lab service, upstream repos in comments
+flask==3.0.0          # pallets/flask
+requests==2.34.2      # psf/requests
+numpy==1.26.0         # numpy/numpy
+pydantic==2.5.0       # pydantic/pydantic
+httpx==0.28.1         # encode/httpx
+rich==15.0.0          # Textualize/rich
+click==8.5.0          # pallets/click
+pytest==7.4.0         # pytest-dev/pytest
